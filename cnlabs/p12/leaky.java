@@ -1,4 +1,6 @@
-package p12;
+package cnlabs.p12;
+
+
 
 import java.util.Scanner;
 import java.lang.*;
@@ -50,3 +52,5 @@ System.out.println(+i+ "\t\t" +a[i] +"\t\t" +recv +"\t" +sent + "\t" +buck_rem);
 }
 }
 }
+
+
