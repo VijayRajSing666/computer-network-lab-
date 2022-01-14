@@ -1,3 +1,7 @@
+//:Write a program for simple RSA algorithm to encrypt and decrypt the data.
+
+package cnlabs.p11;
+
 import java.io.DataInputStream;
 import java.io.IOException;
 import java.math.BigInteger;
